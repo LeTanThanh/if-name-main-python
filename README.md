@@ -6,3 +6,8 @@
 ```python
 python echo.py
 ```
+
+- Run echo.py as module
+```python
+python main.py
+```
